@@ -29,9 +29,12 @@ Atualmente focado em:
 
 ## Certificações
 
-- 🛡️ **Network Defense – Cisco**
-- ☁️ **AWS Cloud Practitioner – AWS**
-- 🐧 **Linux para Desenvolvedores – Udemy**
+- 🛡️ Network Defense – Cisco
+- ☁️ AWS Cloud Quest: Cloud Practitioner – AWS
+- ☁️ AWS Partner: Accreditation (Technical)
+- 🐧 Linux para Desenvolvedores
+- 🗄️ SQL para Análise de Dados
+- 🔧 Git e GitHub (Básico ao Avançado)
 
 ---
 
