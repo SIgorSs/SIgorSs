@@ -8,22 +8,21 @@
 
 ## Sobre mim
 
-Sou estudante de tecnologia explorando diferentes áreas como desenvolvimento, cloud computing e dados.  
+Sou estudante de tecnologia explorando desenvolvimento, cloud computing e dados.  
 Gosto de construir projetos práticos e evoluir constantemente minhas habilidades.
 
 Atualmente focado em:
-- Linux e fundamentos de sistemas
-- Desenvolvimento backend
-- Conceitos de cloud computing
-- Estrutura de dados e lógica
+- Linux e fundamentos de sistemas  
+- Desenvolvimento backend  
+- Conceitos de cloud computing  
+- Estrutura de dados e lógica  
 
 ---
 
 ## Tecnologias
 
-<p>
-Python • Java • JavaScript  
-Linux • Git • GitHub • MySQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,linux,git,github,mysql" />
 </p>
 
 ---
