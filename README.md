@@ -27,12 +27,11 @@ Atualmente focado em:
 
 ---
 
-## GitHub Stats
+## Certificações
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SIgorSs&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIgorSs&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+- 🛡️ **Network Defense – Cisco**
+- ☁️ **AWS Cloud Practitioner – AWS**
+- 🐧 **Linux para Desenvolvedores – Udemy**
 
 ---
 
@@ -44,5 +43,11 @@ Construir uma base sólida em tecnologia e conquistar minha primeira oportunidad
 
 ## Contato
 
-LinkedIn: www.linkedin.com/in/igor-silva-507467235
-Email: igorsousas204@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/igor-silva-507467235">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:igorsousas204@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
